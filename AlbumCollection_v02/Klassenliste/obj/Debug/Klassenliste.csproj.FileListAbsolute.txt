@@ -1,0 +1,52 @@
+E:\Software\Klassenliste\Klassenliste\bin\Debug\Klassenliste.exe.config
+E:\Software\Klassenliste\Klassenliste\bin\Debug\Klassenliste.exe
+E:\Software\Klassenliste\Klassenliste\bin\Debug\Klassenliste.pdb
+E:\Software\Klassenliste\Klassenliste\obj\Debug\Klassenliste.Form1.resources
+E:\Software\Klassenliste\Klassenliste\obj\Debug\Klassenliste.Properties.Resources.resources
+E:\Software\Klassenliste\Klassenliste\obj\Debug\Klassenliste.csproj.GenerateResource.cache
+E:\Software\Klassenliste\Klassenliste\obj\Debug\Klassenliste.csproj.CoreCompileInputs.cache
+E:\Software\Klassenliste\Klassenliste\obj\Debug\Klassenliste.exe
+E:\Software\Klassenliste\Klassenliste\obj\Debug\Klassenliste.pdb
+E:\Software\Klassenliste\Klassenliste\obj\Debug\Klassenliste.csprojAssemblyReference.cache
+F:\Software\Klassenliste\Klassenliste\bin\Debug\Klassenliste.exe.config
+F:\Software\Klassenliste\Klassenliste\bin\Debug\Klassenliste.exe
+F:\Software\Klassenliste\Klassenliste\bin\Debug\Klassenliste.pdb
+F:\Software\Klassenliste\Klassenliste\obj\Debug\Klassenliste.csprojAssemblyReference.cache
+F:\Software\Klassenliste\Klassenliste\obj\Debug\Klassenliste.Form1.resources
+F:\Software\Klassenliste\Klassenliste\obj\Debug\Klassenliste.Properties.Resources.resources
+F:\Software\Klassenliste\Klassenliste\obj\Debug\Klassenliste.csproj.GenerateResource.cache
+F:\Software\Klassenliste\Klassenliste\obj\Debug\Klassenliste.csproj.CoreCompileInputs.cache
+F:\Software\Klassenliste\Klassenliste\obj\Debug\Klassenliste.exe
+F:\Software\Klassenliste\Klassenliste\obj\Debug\Klassenliste.pdb
+E:\Software\AlbumCollection\Klassenliste\bin\Debug\Klassenliste.exe.config
+E:\Software\AlbumCollection\Klassenliste\bin\Debug\Klassenliste.exe
+E:\Software\AlbumCollection\Klassenliste\bin\Debug\Klassenliste.pdb
+E:\Software\AlbumCollection\Klassenliste\obj\Debug\Klassenliste.csprojAssemblyReference.cache
+E:\Software\AlbumCollection\Klassenliste\obj\Debug\Klassenliste.Form1.resources
+E:\Software\AlbumCollection\Klassenliste\obj\Debug\Klassenliste.Properties.Resources.resources
+E:\Software\AlbumCollection\Klassenliste\obj\Debug\Klassenliste.csproj.GenerateResource.cache
+E:\Software\AlbumCollection\Klassenliste\obj\Debug\Klassenliste.csproj.CoreCompileInputs.cache
+E:\Software\AlbumCollection\Klassenliste\obj\Debug\Klassenliste.exe
+E:\Software\AlbumCollection\Klassenliste\obj\Debug\Klassenliste.pdb
+E:\Software\AlbumCollection - Kopie\Klassenliste\bin\Debug\Klassenliste.exe.config
+E:\Software\AlbumCollection - Kopie\Klassenliste\bin\Debug\Klassenliste.exe
+E:\Software\AlbumCollection - Kopie\Klassenliste\bin\Debug\Klassenliste.pdb
+E:\Software\AlbumCollection - Kopie\Klassenliste\obj\Debug\Klassenliste.Form1.resources
+E:\Software\AlbumCollection - Kopie\Klassenliste\obj\Debug\Klassenliste.Properties.Resources.resources
+E:\Software\AlbumCollection - Kopie\Klassenliste\obj\Debug\Klassenliste.csproj.GenerateResource.cache
+E:\Software\AlbumCollection - Kopie\Klassenliste\obj\Debug\Klassenliste.csproj.CoreCompileInputs.cache
+E:\Software\AlbumCollection - Kopie\Klassenliste\obj\Debug\Klassenliste.exe
+E:\Software\AlbumCollection - Kopie\Klassenliste\obj\Debug\Klassenliste.pdb
+E:\Software\AlbumCollection - Kopie\Klassenliste\obj\Debug\Klassenliste.csproj.AssemblyReference.cache
+E:\Software\AlbumCollection - Kopie\Klassenliste\obj\Debug\Klassenliste.csproj.SuggestedBindingRedirects.cache
+E:\Software\AlbumCollection_v02\Klassenliste\bin\Debug\Klassenliste.exe.config
+E:\Software\AlbumCollection_v02\Klassenliste\bin\Debug\Klassenliste.exe
+E:\Software\AlbumCollection_v02\Klassenliste\bin\Debug\Klassenliste.pdb
+E:\Software\AlbumCollection_v02\Klassenliste\obj\Debug\Klassenliste.csproj.AssemblyReference.cache
+E:\Software\AlbumCollection_v02\Klassenliste\obj\Debug\Klassenliste.Form1.resources
+E:\Software\AlbumCollection_v02\Klassenliste\obj\Debug\Klassenliste.Properties.Resources.resources
+E:\Software\AlbumCollection_v02\Klassenliste\obj\Debug\Klassenliste.csproj.GenerateResource.cache
+E:\Software\AlbumCollection_v02\Klassenliste\obj\Debug\Klassenliste.csproj.CoreCompileInputs.cache
+E:\Software\AlbumCollection_v02\Klassenliste\obj\Debug\Klassenliste.exe
+E:\Software\AlbumCollection_v02\Klassenliste\obj\Debug\Klassenliste.pdb
+E:\Software\AlbumCollection_v02\Klassenliste\obj\Debug\Klassenliste.csproj.SuggestedBindingRedirects.cache
